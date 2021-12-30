@@ -1,7 +1,4 @@
 ### Hi there 👋
-
-https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
-img.shields.io/badge/%3CLABEL%3E-%3CMESSAGE%3E-%3CCOLOR%3E
   
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
