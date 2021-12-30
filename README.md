@@ -1,6 +1,8 @@
 ### Hi there 👋
   
-<img src="https://img.shields.io/badge/Android-A8B9CC?style=flat-square&logo=Android&logoColor=white"/>
+<img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>&nbsp 
+
+<img src="https://img.shields.io/badge/C-3766AB?style=flat-C&logoColor=white"/></a>&nbsp 
 
 <!--
 **redmink/redmink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
