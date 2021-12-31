@@ -7,6 +7,7 @@
 <div align=center><H1>:computer: Tech Stack :computer:</H1></div>
 <div align=center><H1><img src="https://img.shields.io/badge/C-DC143C?style=flat-square&logo=C&logoColor=white"/>  <img src="https://img.shields.io/badge/C%23-228B22?style=flat-square&logo=Csharp&logoColor=white"/>  <img src="https://img.shields.io/badge/Python-DAA520?style=flat-square&logo=Python&logoColor=white"/></a></H1></div>
 
+<div align=center><H1>:exclamation: Me :exclamation:</H1></div>
 <!--
 **redmink/redmink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
