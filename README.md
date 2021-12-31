@@ -1,4 +1,4 @@
-# MINKI
+# MINKI :blush:
 
 ### Hi there 👋
   
